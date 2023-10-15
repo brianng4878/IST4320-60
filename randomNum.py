@@ -4,4 +4,6 @@
 # IST 4320-60
 # 10/8/2023
 # Activity 5 - Version Control with Git
-print("Hello world! 👋🌎")
+import random
+randNum = random.randrange(0, 10)
+print("The random number is: " + str(randNum))

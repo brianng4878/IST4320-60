@@ -4,4 +4,5 @@
 # IST 4320-60
 # 10/8/2023
 # Activity 5 - Version Control with Git
-print("Hello world! 👋🌎")
+for i in range(10):
+	print (i)
